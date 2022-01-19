@@ -1,1 +1,0 @@
-Oğulcan Kırtay 190202005 Merve Gümüş 200202125 test sınıfı üzerinden run file edilerek çalıştırılmaktadır. 
